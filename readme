@@ -3,5 +3,5 @@ Repository for "Physics and causally constrained discrete-time neural models of 
 
 Find the paper in https://arxiv.org/abs/2602.13847
 
-- **CdV/**
+- CdV
 Codes to replicate the results in Section IIIA of the paper on the Charney-DeVore model. 
