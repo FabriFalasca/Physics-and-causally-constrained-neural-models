@@ -1,6 +1,6 @@
-Repository for "Causally constrained reduced-order neural climate emulators via response theory"
+Repository for "Physics and causally constrained discrete-time neural models of turbulent dynamical systems"
+(Work in progress)
 
-Work in progress: the repository will consist in a few notebooks where we explain step by step how to 
+Find the paper in https://arxiv.org/abs/2602.13847
 
-(a) identify direct causal links via the FDT and score matching;
-(b) enforce the inferred causal structure in neural emulators architectures
+- Folder: CdV
