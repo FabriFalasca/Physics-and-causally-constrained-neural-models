@@ -1,7 +1,8 @@
 # Codes for "Physics and causally constrained discrete-time neural models of turbulent dynamical systems"
 (Work in progress)
 
-"Every morning, a software engineer in Santa Clara wakes up and starts hunting for bad code written by physicists..." I. Newton March 30 1727
+"Every morning, a software engineer in Santa Clara wakes up and starts hunting for bad code written by physicists..." 
+- I. Newton; March 30, 1727
 
 Find the paper in https://arxiv.org/abs/2602.13847
 
